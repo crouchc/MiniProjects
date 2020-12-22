@@ -25,4 +25,9 @@ while len(password) < 15:
 
 print(password)
 input()
+
+#Add storage of passwords with username and website name
+
+
+
     
