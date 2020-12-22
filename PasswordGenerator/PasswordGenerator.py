@@ -26,9 +26,7 @@ def passGen():
         else:
               ind = randint(0,charsLen-1)
               password = password + chars[ind]
-    print(password)
     return password
-    input()
     
 def window():
     app = QApplication(sys.argv)
